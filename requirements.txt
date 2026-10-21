@@ -1,4 +1,4 @@
-torch>=1.11
+torch>=2.7
 torchvision
 timm
 open_clip_torch<=2.23.0
@@ -8,3 +8,6 @@ matplotlib
 numpy
 requests
 einops
+maskinversion_torch
+jupyterlab
+ipykernel
