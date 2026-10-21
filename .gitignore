@@ -1,0 +1,42 @@
+# Environnement virtuel
+maskinversion_env/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Notebooks Jupyter
+.ipynb_checkpoints/
+
+# Modèles et données (gros fichiers)
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+data/
+datasets/
+
+# Sorties / résultats
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+*.npy
+*.npz
+*.bat
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
